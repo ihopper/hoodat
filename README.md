@@ -1,5 +1,5 @@
 # hoodat
-A simple Java console Whois query application
+A simple Java command line Whois query application
 
 Usage:
 
